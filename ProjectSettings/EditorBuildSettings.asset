@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MarkerTracking.unity
+    guid: 483a58771f03c4748a3dcd10c9a4666e
+  - enabled: 0
+    path: Assets/PersistenceScene.unity
+    guid: 2500c73b9bc9d234ca6d7bc1a9398143
+  m_configObjects:
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: f236d38bab0fece43a36e56419d403fb, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 90d92cbcd55e5754d912551f6b851345, type: 2}
